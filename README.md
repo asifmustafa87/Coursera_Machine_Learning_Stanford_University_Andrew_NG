@@ -1,6 +1,6 @@
 # Coursera Machine Learning by Andrew NG (Stanford University)
 
-This git contains all the Lecture materials and Programming exercises and assignments of Machine Learning course conducted by the instructor Andrew NG from Stanford University. It contains all the fundamental concepts of Machine Learning such as: Linear regression, Gradient descent, Logistic Regression, Regularization, Neural Networks, Advice for applying machine learning, Learning curves, Machine learning system design, Error analysis, Support Vector Machines, Kernels, Clustering, K‐means algorithm, Dimensionality Reduc1on, Principal Component Analysis algorithm, Anomaly detection,Recommender Systems, Large scale machine learning, Photo OCR and much more!
+This git contains all the Lecture materials and Programming exercises and assignments of Machine Learning course conducted by the instructor Andrew NG from Stanford University. It contains all the fundamental concepts of Machine Learning such as: Linear regression, Gradient descent, Logistic Regression, Regularization, Neural Networks, Advice for applying machine learning, Learning curves, Machine learning system design, Error analysis, Support Vector Machines, Kernels, Clustering, K‐means algorithm, Dimensionality Reduction, Principal Component Analysis algorithm, Anomaly detection,Recommender Systems, Large scale machine learning, Photo OCR and much more!
 
 # Contents
 
