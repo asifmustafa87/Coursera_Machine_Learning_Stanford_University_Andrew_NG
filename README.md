@@ -13,4 +13,4 @@ This git contains all the Lecture materials and Programming exercises and assign
 
 # Course Link
 
-[Machine Learning] (https://de.coursera.org/learn/machine-learning)
+- [Machine Learning] (https://de.coursera.org/learn/machine-learning)
