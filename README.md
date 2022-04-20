@@ -1,1 +1,2 @@
 # Coursera_Machine_Learning_Stanford_University_Andrew_NG
+Andrew NG
